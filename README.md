@@ -63,6 +63,11 @@ ruby download-alt-conf-2015.rb
 * Swift Thinking
 * Sysadmins and the Middle Way
 * Technology Journalism Panel
+* The Lessons of GamerGate
+* The Stylish Objective-C Developer's Guide to Swift
+* The User "Journey" Is Actually a Minefield
+
+
 
 #Download WWDC2013/2014/2015
 **usage**

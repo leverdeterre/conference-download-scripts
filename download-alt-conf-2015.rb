@@ -32,7 +32,8 @@ def download(video_named, at_url)
         #puts "real video url is #{real_video_url}"
         file_name = video_named.gsub(" ","-")+".mp4"
         file_name = file_name.gsub("\/","-")
-        
+        file_name = file_name.gsub("\'","-")
+      
         if !File.exist?(file_name) 
           
           begin
