@@ -1,4 +1,8 @@
 #Download AltConf 2015 Videos
+width:1280
+height:720
+Size 40G
+
 **usage**
 ```ruby
 ruby download-alt-conf-2015.rb
@@ -76,6 +80,12 @@ ruby download-alt-conf-2015.rb
 
 
 #Download WWDC2013/2014/2015
+2015 : Quality HD - Size 110Go
+2015 : Quality SD - Size 29Go
+2014 : Quality HD - Size 34Go
+2014 : Quality SD - Size 10Go
+2013 : Size 53Go
+
 **usage**
 ```ruby
 ./download-wwdc.sh HD 2015
