@@ -1,7 +1,8 @@
 #Download AltConf 2015 Videos
-width:1280
-height:720
-Size 40G
+| AltConf |Quality|size|
+| ------------- |:-------------:| -----:|
+| AltConf 2015 |1280x720| 40Go|
+
 
 **usage**
 ```ruby
@@ -80,11 +81,14 @@ ruby download-alt-conf-2015.rb
 
 
 #Download WWDC2013/2014/2015
-2015 : Quality HD - Size 110Go
-2015 : Quality SD - Size 29Go
-2014 : Quality HD - Size 34Go
-2014 : Quality SD - Size 10Go
-2013 : Size 53Go
+
+|WWDC|Quality|size|
+| ------------- |:-------------:| -----:|
+|WWDC215|HD|110Go|
+|WWDC215|SD|29Go|
+|WWDC214|HD|34Go|
+|WWDC214|SD|10Go|
+|WWDC213|HD|53Go|
 
 **usage**
 ```ruby
