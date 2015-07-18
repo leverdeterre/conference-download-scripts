@@ -80,7 +80,7 @@ ruby download-alt-conf-2015.rb
 
 
 
-#Download WWDC2013/2014/2015
+#Download WWDC2013/2014/2015 Videos and pdf
 
 |WWDC|Quality|size|
 | ------------- |:-------------:| -----:|
