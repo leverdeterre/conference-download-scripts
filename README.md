@@ -66,6 +66,12 @@ ruby download-alt-conf-2015.rb
 * The Lessons of GamerGate
 * The Stylish Objective-C Developer's Guide to Swift
 * The User "Journey" Is Actually a Minefield
+* What Haskell Teaches Me About Swift
+* Why Did the Developer Cross the Road?
+* With a Little Help
+* Writing a Technical Book - The Survival Guide
+* iMore Keynote Reaction Panel
+* iOS GPU Programming With Swift & Metal
 
 
 
